@@ -1,4 +1,4 @@
-# PRESENT-table-lookup
+# Cryptanalysis of PRESENT block cipher
 
 The PRESENT block cipher is a 64-bit block cipher that operates with
 80- or 128-bit keys. It is a lightweight block cipher that uses the SPN
