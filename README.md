@@ -6,6 +6,7 @@ structure and accommodates lower security levels and complexity
 compared to other block ciphers like AES. This project implements
 the encryption process of the PRESENT cipher with 80-bit key.
 
+
 • The PRESENT block cipher consists of three layers in each round:
 
 –Round key mixing
@@ -15,6 +16,7 @@ the encryption process of the PRESENT cipher with 80-bit key.
 –Permutation
 
 • This cipher consists of 31 rounds.
+
 
 
 The mission of this project is to conduct cryptanalysis of the PRESENT block
